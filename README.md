@@ -1,2 +1,2 @@
 # Amazon-Review-Scraper
-I have created a web scraper that, when given a link to an Amazon product, reads out all the reviews with details of author, title, content and stars.
+Using requests, I have made a web scraper that, given a link of an Amazon product, reads all the reviews with the details of the author, title, content and stars.
