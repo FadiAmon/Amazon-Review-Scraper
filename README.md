@@ -1,3 +1,2 @@
 # Amazon-Review-Scraper
-Using requests, I have made a web scraper that, given a link of an Amazon product, reads all the reviews with the details of the author, title, content and stars.
-The code is super efficient and fast, it scans 5000 reviews in about 1 minute, all the reviews are saved in a Data Frame and transformed to a google docs document.
+I have created a web scraper using the requests module, which can extract reviews from an Amazon product page. The scraper can retrieve details such as the author's name, review title, content, and star rating for each review. The code is optimized for speed and can scan through 5000 reviews in approximately one minute. The extracted data is stored in a Data Frame and converted into a Google Docs document.
